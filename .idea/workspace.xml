@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edef2609-bc46-4998-9eea-514b0590880c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Regex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Regex.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,40 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="regex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Regex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.regex" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,5 +79,31 @@
       <updated>1615632611565</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="406" key="GridCell.Tab.0.bottom" timestamp="1615635712562">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1259" height="406" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1615635712562" />
+    <state width="1259" height="406" key="GridCell.Tab.0.center" timestamp="1615635712561">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1259" height="406" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1615635712561" />
+    <state width="1259" height="406" key="GridCell.Tab.0.left" timestamp="1615635712561">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1259" height="406" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1615635712561" />
+    <state width="1259" height="406" key="GridCell.Tab.0.right" timestamp="1615635712562">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1259" height="406" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1615635712562" />
+    <state x="1429" y="368" key="SettingsEditor" timestamp="1615635363732">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="1429" y="368" key="SettingsEditor/0.25.2560.1415@0.25.2560.1415" timestamp="1615635363732" />
+    <state x="1597" y="561" key="com.intellij.ide.util.TipDialog" timestamp="1615635702480">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="1597" y="561" key="com.intellij.ide.util.TipDialog/0.25.2560.1415@0.25.2560.1415" timestamp="1615635702480" />
   </component>
 </project>
